@@ -40,4 +40,4 @@ title: Hongsheng Hu
 I am a fourth-year PhD at [University of Auckland](https://www.auckland.ac.nz/en.html), Faculty of Engineering. My research focus on AI privacy and security, especially membership inference attacks, differential privacy, and inference attacks in the context of federated learning. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/hongsheng_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+

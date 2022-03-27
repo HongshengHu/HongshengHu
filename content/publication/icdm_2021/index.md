@@ -1,7 +1,7 @@
 ---
 title: "Source Inference Attacks in Federated Learning"
 # date: 2021-06-11
-publishDate: 2021-12-31
+publishDate: 2021-12-07
 authors:
 - admin
 - Zoran Salcic
