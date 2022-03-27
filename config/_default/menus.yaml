@@ -10,6 +10,12 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
+  - name: Honor & Awards
+    url: '#award'
+    weight: 30
+  - name: Recent News
+    url: "#recent_news"
+    weight: 40
   - name: CV
     url: 'uploads/hongsheng_cv.pdf'
-    weight: 30
+    weight: 50
