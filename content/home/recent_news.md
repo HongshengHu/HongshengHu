@@ -12,6 +12,6 @@ design:
 ---
 <!--StartFragment-->
 
-* To be anounced.
+* I will serve as a Publicity Chair in DSAA2022 Special Session on Private, Secure, and Trust Data Analytics (PSTDA2022).
 
 <!--EndFragment-->
