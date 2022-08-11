@@ -14,7 +14,7 @@ abstract: "Recently issued data privacy regulations like GDPR (General Data Prot
 featured: false
 image:
   preview_only: false
-publication: "*2022 International Joint Conference on Artificial Intelligence*"
+publication: "*2022 International Joint Conference on Artificial Intelligence (IJCAI)*"
 url_pdf: "https://www.ijcai.org/proceedings/2022/0532.pdf"
 url_code: "https://github.com/HongshengHu/membership-inference-via-backdooring"
 ---
